@@ -1,3 +1,6 @@
 ## Welcome to Artemis Token
 
-### Support or Contact
+## Tokenomics
+### Supply: 1000000000000
+### Circulation: 100000000000
+### 2% fees LP
