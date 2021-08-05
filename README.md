@@ -1,4 +1,6 @@
 ## What is Artemis Token ?
+Artemis token is a experiment of decentralized finance that have the objective offerces a store of value of the holders.
+
 
 ### Tokenomics
 #### Supply: 1000000000000
